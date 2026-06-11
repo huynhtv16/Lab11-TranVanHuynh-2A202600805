@@ -1,4 +1,4 @@
-# Báo cáo Phần B (Tiếng Việt)
+# Báo cáo Phần B
 
 **Sinh viên:** Tran Van Huynh
 

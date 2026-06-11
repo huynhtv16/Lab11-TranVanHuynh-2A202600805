@@ -1,4 +1,4 @@
-# Báo cáo nộp  — Assignment 11 (Tiếng Việt)
+# Báo cáo nộp  — Assignment 11
 
 **Sinh viên:** Tran Van Huynh
 
